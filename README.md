@@ -34,7 +34,7 @@
 - Docker ready
 - IPv6 ready
 - Cron job notifications for renewal or error etc.
-- Timeweb Cloud DNS-01 support
+- Timeweb Cloud DNS-01 support (--dns dns_twcloud)
 
 It's probably the `easiest & smartest` shell script to automatically issue & renew the free certificates.
 
